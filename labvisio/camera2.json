@@ -6,7 +6,7 @@
     },
     "id": "2",
     "extrinsic": {
-        "to": "3",
+        "to": "2",
         "tf": {
             "shape": {
                 "dims": [
